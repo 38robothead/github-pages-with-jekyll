@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Test Website
 
-I'm glad you are here. I plan to talk about ...
+Just a test website hompage. Nothing more. 
